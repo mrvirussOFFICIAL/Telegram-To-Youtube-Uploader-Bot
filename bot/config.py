@@ -14,15 +14,15 @@ class Config:
 
     CLIENT_SECRET = ""
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [1898717954]
 
     VIDEO_DESCRIPTION = ""
 
     VIDEO_CATEGORY = ""
 
-    VIDEO_TITLE_PREFIX = ""
+    VIDEO_TITLE_PREFIX = "hi"
 
-    VIDEO_TITLE_SUFFIX = ""
+    VIDEO_TITLE_SUFFIX = "last"
     
     DEBUG = bool()
 
